@@ -1,4 +1,4 @@
-Portfolio project in Semester 3, to help me find an internship in Semester 4 and present my work.
+#Portfolio project in Semester 3, to help me find an internship in Semester 4 and present my work.#
 
 The project focuses on creating a personal portfolio website for an upcoming internship search in semester 5. It presents previous projects, skills, and personal interests, with a focus on graphic design and other creative fields. Alongside work from previous semesters, it also includes personal projects such as photography and digital art to show a wider range of skills and creative thinking.
 
